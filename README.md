@@ -3,5 +3,7 @@
 ⚛️ I’m currently learning React  
 😞 And I'm looking for an internship (I swear)
 
-[![Linkedin Badge](https://img.shields.io/badge/-/lucasrgcruz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrgcruz/)
-[![Replit](https://img.shields.io/badge/-/sbohfm-black?style=flat&logo=Replit&logoColor=white)](https://replit.com/@sbohfm)
+Get an *overview of my journey* on LinkedIn or maybe *look at some of my \~code snippets\~* on Replit :D
+
+[![Linkedin Badge](https://img.shields.io/badge/-my%20journey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrgcruz/)
+[![Replit](https://img.shields.io/badge/-code%20snippets-black?style=flat&logo=Replit&logoColor=white)](https://replit.com/@sbohfm)
