@@ -6,4 +6,4 @@
 Get an *overview of my journey* (it's brief yet) on LinkedIn or maybe *look through my \~code snippets\~* on Replit :D
 
 [![Linkedin Badge](https://img.shields.io/badge/-still%20brief%20journey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrgcruz/)
-[![Replit](https://img.shields.io/badge/-code%20snippets-black?style=flat&logo=Replit&logoColor=white)](https://replit.com/@sbohfm)
+[![Replit](https://img.shields.io/badge/-code%20snippets%20:D-black?style=flat&logo=Replit&logoColor=white)](https://replit.com/@sbohfm)
