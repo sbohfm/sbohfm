@@ -1,9 +1,6 @@
-👋 Hi, I’m Lucas! (or Rangel, it's up to you)  
-🗿 I’m interested in interactive media (*I know it's very broad*)  
-⚛️ I’m currently learning React  
-😞 And I'm looking for an internship (I swear)
+## Hi, I’m Lucas! (or Rangel, it's up to you)  
 
-Get an *overview of my journey* on LinkedIn (it's brief yet) or maybe *look through my \~code snippets\~* on Replit :D
+> Get an overview of my (brief yet) journey on **LinkedIn**, or maybe look through some of my *\~code snippets\~* on **Replit**!
 
 [![Linkedin Badge](https://img.shields.io/badge/-still%20brief%20journey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrgcruz/)
 [![Replit](https://img.shields.io/badge/-code%20snippets%20:D-black?style=flat&logo=Replit&logoColor=white)](https://replit.com/@sbohfm)
