@@ -6,7 +6,7 @@
 
 Dude, just hire me pls.
 
-> If you think I could fit a (preferably paid) role, you're MORE than WELCOMED to let me know! That'd be pretty sweet of yours and, you know, I'd fancy it **that** much, it's been rough. Anyway, you will surely find me on [LinkedIn](https://www.linkedin.com/in/lucasrgcruz/), but [e-mail](lucasrgcruz@gmail.com) is always the fastest option.
+> So, if you think I could fit a (preferably paid) role, you're MORE than WELCOMED to let me know! That'd be pretty sweet of yours and, you know, I'd fancy it **that** much, it's been rough. Anyway, you will surely find me on [LinkedIn](https://www.linkedin.com/in/lucasrgcruz/), but [e-mail](lucasrgcruz@gmail.com) is always the fastest option.
 
 ---
 
