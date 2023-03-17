@@ -10,7 +10,9 @@ You see, I'm very active in my Replit channel, since I use it as a notebook for 
 
 Here, on the other hand, is the place where big stuff will live, like guided, open source projects, event-related/competitions or relevant pieces from my notebook!
 
-So, if you think I could fit a (preferably paid) role, you're **MORE** than **WELCOMED** to let me know! That'd be pretty sweet of yours and I'd fancy it **that** much, it's been rough lately. Anyway, you will surely find me on [LinkedIn](https://www.linkedin.com/in/lucasrgcruz/), but [e-mail](lucasrgcruz@gmail.com) is always the fastest option.
+> Someone?
+
+Anyway, if you think I could fit a (preferably paid) role, you're **MORE** than **WELCOMED** to let me know! That'd be pretty sweet of yours and I'd fancy it **that** much, it's been rough lately. Anyway, you will surely find me on [LinkedIn](https://www.linkedin.com/in/lucasrgcruz/), but [e-mail](lucasrgcruz@gmail.com) is always the fastest option.
 
 <div align="center">
 
