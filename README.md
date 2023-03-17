@@ -1,6 +1,6 @@
 ## You've found me (coding)!
 
-> Hey, this is my personal Github, and you're probably familiar with what it means — not much to see I guess!
+> Hey, this is my personal Github, and you're probably familiar with what it means — not much to see yet!
 
 > Although I'll try to keep some collaborative work public here and there, chances are I'm currently working in something more important right now. Like internship matters or academic research. *And did I also say I'm available to work and **craving to be an/your intern?***
 
