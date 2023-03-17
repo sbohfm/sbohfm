@@ -1,4 +1,4 @@
-## You've found me!
+## You've found me (coding)!
 
 > Hey, this is my personal Github, and you're probably familiar with what it means — not much to see I guess!
 
