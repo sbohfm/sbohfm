@@ -12,5 +12,5 @@ Dude, just hire me pls.
 
 You can also find me other ways, like in a **more professional way**, or by reading some of my ***\~funny little codes\~*** but it's on you!
 
-[![Linkedin Badge](https://img.shields.io/badge/-professional%20way-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrgcruz/)
-[![Replit](https://img.shields.io/badge/-little%20codes%20:D-black?style=flat&logo=Replit&logoColor=white)](https://replit.com/@sbohfm)
+[![Linkedin Badge](https://img.shields.io/badge/-professional%20way%20👔-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrgcruz/)
+[![Replit](https://img.shields.io/badge/-little%20codes%20👍-black?style=flat&logo=Replit&logoColor=white)](https://replit.com/@sbohfm)
