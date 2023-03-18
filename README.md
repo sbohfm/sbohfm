@@ -8,7 +8,7 @@ Although **I will** try to keep some **collaborative work public** here and ther
 
 You see, I'm very active in my Replit channel, since I use it as a notebook for all things mildly interesting (for me) and that are related to coding. That's the place you want to go to find things such as study notes, small projects, prototypes and drafts I might've forgotten.
 
-Here, on the other hand, is the place where big stuff will live, like guided, open source projects, event-related/competitions or relevant pieces from my notebook!
+Here, on the other hand, is the place where big stuff will live, like guided, open source projects, event-related-stuff/contests or relevant pieces from my notebook!
 
 > Someone?
 
