@@ -6,11 +6,11 @@ Hey, this is my personal Github, and you're probably familiar with what it means
 
 > Someone just hire me pls
 
-📒 This repo is as a notebook for all things mildly interesting (for me) related to coding. That's the place you want to go to find things such as study notes, small projects, prototypes and drafts I might've forgotten. On the other hand, here is the place where big stuff will live, such as guided, open source projects, event-related-tech/contests/challenges or relevant pieces from the said notebook!
+📒 But I have a [Repl](https://replit.com/@sbohfm) too -- as notebook for all things mildly interesting (for me) related to coding. That's the place you want to go to find study notes, small projects, prototypes and drafts I might've forgotten. On the other hand, this Github is the place where big stuff will live: guided, open source projects, event-related-tech/contests/challenges or relevant pieces from the said notebook! They're related in some sense.
 
 > Someone?
 
-💸 If you think I could be (paid) fit, you're very **WELCOMED** to let me know! `Please.` You can find me on [LinkedIn](https://www.linkedin.com/in/lucasrgcruz/), surely, but [e-mail](lucasrgcruz@gmail.com) is always the fastest option.
+💸 If you think I could help, you're **WELCOMED** to let me know! You can find me on [LinkedIn](https://www.linkedin.com/in/lucasrgcruz/), surely, but [e-mail](lucasrgcruz@gmail.com) is always the fastest option.
 
 <div align="center">
 
