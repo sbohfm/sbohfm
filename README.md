@@ -1,12 +1,12 @@
 ## You've found me (coding)!
 
-Hey, this is my personal Github, and you're probably familiar with what it means — not very much to see but. But don't be upset just yet!
+Hey, this is my personal Github, and you're probably familiar with what it means — not very much to see and... No! Don't go!
 
-❗ Although **I will** try to keep some **collaborative work public** here and there, chances are **I'm currently working in some important stuff right now**. Like internship or academic research. *And did I mentioned I'm very available to work and **craving to be an/your intern?***
+❗ I- I **will** try to keep some **collaborative work public** here and there, but chances **could be** I'm currently working in some equally important things right now. Like internship or academic research. *And did I mentioned I'm very available to work and ***to be your intern?***
 
 > Someone just hire me pls
 
-📒 I use this as a notebook for all things mildly interesting (for me) and that are related to coding. That's the place you want to go to find things such as study notes, small projects, prototypes and drafts I might've forgotten. But here, on the other hand, is the place where big stuff will live, like guided, open source projects, event-related-stuff/contests or relevant pieces from the said notebook!
+📒 This repo is as a notebook for all things mildly interesting (for me) related to coding. That's the place you want to go to find things such as study notes, small projects, prototypes and drafts I might've forgotten. On the other hand, here is the place where big stuff will live, such as guided, open source projects, event-related-tech/contests/challenges or relevant pieces from the said notebook!
 
 > Someone?
 
