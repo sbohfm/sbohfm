@@ -10,7 +10,7 @@ Hey, this is my personal Github, and you're probably familiar with what it means
 
 > Someone?
 
-💸 So, if you think I could fit a (paid) role, you're very **WELCOMED** to let me know! `Please.` You can find me on [LinkedIn](https://www.linkedin.com/in/lucasrgcruz/), surely, but [e-mail](lucasrgcruz@gmail.com) is always the fastest option.
+💸 If you think I could be (paid) fit, you're very **WELCOMED** to let me know! `Please.` You can find me on [LinkedIn](https://www.linkedin.com/in/lucasrgcruz/), surely, but [e-mail](lucasrgcruz@gmail.com) is always the fastest option.
 
 <div align="center">
 
