@@ -6,11 +6,11 @@ Hey, this is my personal Github, and you're probably familiar with what it means
 
 > Someone just hire me pls
 
-📒 I use this as a notebook for all things mildly interesting (for me) and that are related to coding. That's the place you want to go to find things such as study notes, small projects, prototypes and drafts I might've forgotten. But here, on the other hand, is the place where big stuff will live, like guided, open source projects, event-related-stuff/contests or relevant pieces from my notebook!
+📒 I use this as a notebook for all things mildly interesting (for me) and that are related to coding. That's the place you want to go to find things such as study notes, small projects, prototypes and drafts I might've forgotten. But here, on the other hand, is the place where big stuff will live, like guided, open source projects, event-related-stuff/contests or relevant pieces from the said notebook!
 
 > Someone?
 
-💸 *Anyway*, if you think I could fit a (preferably paid) role, you're **MORE** than **WELCOMED** to let me know! That'd be pretty sweet of yours and I'd fancy it **that** much, it's been rough lately. You will surely find me on [LinkedIn](https://www.linkedin.com/in/lucasrgcruz/) currently, but [e-mail](lucasrgcruz@gmail.com) is always the fastest option.
+💸 So, if you think I could fit a (paid) role, you're very **WELCOMED** to let me know! `Please.` You can find me on [LinkedIn](https://www.linkedin.com/in/lucasrgcruz/), surely, but [e-mail](lucasrgcruz@gmail.com) is always the fastest option.
 
 <div align="center">
 
