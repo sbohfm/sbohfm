@@ -2,7 +2,7 @@
 
 Hey, this is my personal Github, and you're probably familiar with what it means — not very much to see and... No! Don't go!
 
-❗ I- I **will** try to keep some **collaborative work public** here and there, but chances **could be** I'm currently working in some equally important things right now. Like internship or academic research. *And did I mentioned I'm very available to work and ***to be your intern?***
+❗ I- I **will** try to keep some **collaborative work public** here and there, but chances **could be** I'm currently working in some equally important things right now. Like internship or academic research. *And did I mentioned I'm very available to work and **to be your intern?***
 
 > Someone just hire me pls
 
