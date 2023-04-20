@@ -10,7 +10,7 @@ Hey, this is my personal Github, and you're probably familiar with what it means
 
 > Someone?
 
-💸 You think I could help? You're **WELCOMED** to let me know! You'll surely find me on [LinkedIn](https://www.linkedin.com/in/lucasrgcruz/), but [e-mail](lucasrgcruz@gmail.com) is always the fastest option.
+💸 Think I could help? You're **WELCOMED** to let me know! You'll surely find me on [LinkedIn](https://www.linkedin.com/in/lucasrgcruz/), but [e-mail](lucasrgcruz@gmail.com) is always the fastest option.
 
 <div align="center">
 
