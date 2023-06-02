@@ -11,7 +11,7 @@ Hey, this is my personal Github, and you're probably familiar with what it means
 <div align="center">
 
   ...
-  > You can find me other ways, like in a **more professional way**, or by checking some of my ***\~funny little codes\~*** but it's up to you!
+  > You can find me other ways, as in a **more professional way**, or by checking some of my ***\~funny little codes\~*** but that's up to you!
 
   <a href="https://www.linkedin.com/in/lucasrgcruz/" >![Linkedin Badge](https://img.shields.io/badge/-professional%20way%20👔-blue?style=flat&logo=Linkedin&logoColor=white)</a>
   <a href="https://replit.com/@sbohfm">![Replit](https://img.shields.io/badge/-little%20codes%20here%20👍-black?style=flat&logo=Replit&logoColor=white)</a>
