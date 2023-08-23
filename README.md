@@ -6,13 +6,13 @@
 
 ⦾ Anyway, I have a [Repl](https://replit.com/@sbohfm) too, as notebook for all things mildly interesting (for me), and mostly related to coding. This is the place you want to go to find study notes, small projects, prototypes and drafts I might've forgotten.
 
-⦾ On the other hand, this Github is the place where big stuff will live: guided, open source projects, event-related-tech / contests / challenges or relevant pieces from the said notebook!
+⦾ On the other hand, this Github is the place where big stuff will live: guided, open source projects, event-related-tech / contests / challenges or relevant pieces from the said notebook! And that about sums it up I guess...
 
 ---
 
 <div align="right">
 
-  Now try these! ✧˖°. ⦿
+  Have fun! ✧˖°. ⦿
   
   <a href="https://www.linkedin.com/in/lucasrgcruz/" >![Linkedin Badge](https://img.shields.io/badge/-black?style=flat&logo=Linkedin&logoColor=white)</a>
   <a href="https://replit.com/@sbohfm">![Replit](https://img.shields.io/badge/-black?style=flat&logo=Replit&logoColor=white)</a>
