@@ -10,7 +10,7 @@ Anyway, I have a [Repl](https://replit.com/@sbohfm) too -- as notebook for all t
 
 <div align="right">
 
-  ✨✨ Find me elsewhere too!
+  ✨✨ Try these too!
   
   <a href="https://www.linkedin.com/in/lucasrgcruz/" >![Linkedin Badge](https://img.shields.io/badge/-black?style=flat&logo=Linkedin&logoColor=white)</a>
   <a href="https://replit.com/@sbohfm">![Replit](https://img.shields.io/badge/-black?style=flat&logo=Replit&logoColor=white)</a>
