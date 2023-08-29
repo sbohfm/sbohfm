@@ -12,7 +12,7 @@
 
 <div align="right">
 
-  Have fun! ✧˖°. ⦿
+  Lookout! ✧˖°. ⦿
   
   <a href="https://www.linkedin.com/in/lucasrgcruz/" >![Linkedin Badge](https://img.shields.io/badge/-black?style=flat&logo=Linkedin&logoColor=white)</a>
   <a href="https://replit.com/@sbohfm">![Replit](https://img.shields.io/badge/-black?style=flat&logo=Replit&logoColor=white)</a>
